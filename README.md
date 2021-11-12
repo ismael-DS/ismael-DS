@@ -13,6 +13,7 @@
   <img align="center" alt="Ismael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ismael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ismael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Ismael-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/837725532480340041/908861828182982706/ReadyPlayerMe-Avatar_1.png?width=540&height=540">
 </div>
   
   ##
